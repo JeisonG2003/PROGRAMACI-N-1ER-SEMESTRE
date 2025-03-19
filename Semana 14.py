@@ -1,4 +1,4 @@
- #Código creado por Jeison Garcia Arreaga
+ #Código creado por Jeison Teobaldo Garcia Arreaga
 
 def obtener_descuento(total_compra, porcentaje_desc=15):
     # Se calcula el valor del descuento
